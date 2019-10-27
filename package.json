@@ -3,7 +3,7 @@
     "license": "MIT",
     "version": "1.0.0",
     "engines": {
-        "node": ">= 8.9 < 9"
+        "node": ">= 8.9"
     },
     "devDependencies": {
         "@types/restify": "^2.0.X",
