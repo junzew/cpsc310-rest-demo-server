@@ -3,6 +3,8 @@
 ### Set up
 `git clone`  this repo
 
+`yarn install` to install dependencies
+
 `yarn build` to compile
 
 `yarn start` to start the server
